@@ -29,7 +29,7 @@
 ## 🌍 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-Jishnu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/N-Jishnu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jishnu-khumar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://n-jishnu.github.io/Portfolio/)
 
 ---
