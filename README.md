@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Web Development** & **Machine Learning** at Prodigy Infotech 🚀
+- 🌱 I’m currently learning **Web Development** & **Machine Learning** at SRMIST 🚀
 - 💡 Passionate about **AI, Web Technologies, and Open Source**
 - 🎯 Portfolio: [My Website](https://n-jishnu.github.io/Portfolio/)
 - ⚡ Fun fact: I love coding late at night! 🌙
