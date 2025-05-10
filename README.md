@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development** & **Machine Learning** at SRMIST 🚀
 - 💡 Passionate about **AI, Web Technologies, and Open Source**
-- 🎯 Portfolio: [My Website]((https://portfolio-aca7cpo5v-jishnu-nandakumars-projects.vercel.app/))
+- 🎯 Portfolio: [My Website](https://portfolio-jishnu-nandakumars-projects.vercel.app/)
 - ⚡ Fun fact: I love coding late at night! 🌙
 
 ## 🛠️ Tech Stack
