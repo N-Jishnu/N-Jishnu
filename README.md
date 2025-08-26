@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
@@ -40,7 +39,3 @@
   <a href="https://www.linkedin.com/in/jishnu-khumar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://n-jishnu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">⭐ **Feel free to check out my projects and star them!** ⭐</p>
