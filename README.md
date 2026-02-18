@@ -1,13 +1,9 @@
 # <p align="center">Hi there, I'm Jishnu! 👋</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%232F74C0?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23F37626?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Web Development** & **Machine Learning** at SRMIST 🚀
+- 🌱 I’m currently learning **Artificial Intelligence** & **Machine Learning** at SRMIST 🚀
 - 💡 Passionate about **AI, Web Technologies, and Open Source**
 - 🎯 Portfolio: [My Website](https://n-jishnu.github.io/Portfolio/)
 - ⚡ Fun fact: I love coding late at night! 🌙
