@@ -1,37 +1,63 @@
-# <p align="center">Hi there, I'm Jishnu! 👋</p>
+# Hi, I'm Jishnu Nandakumar
 
+AI/ML and systems builder focused on machine learning, computer vision, and scalable backend systems.
 
-## 🚀 About Me
+B.Tech CSE (AIML) at SRM Institute of Science and Technology  
+CGPA: 9.16
 
-- 🌱 I’m currently learning **Artificial Intelligence** & **Machine Learning** at SRMIST 🚀
-- 💡 Passionate about **AI, Web Technologies, and Open Source**
-- 🎯 Portfolio: [My Website](https://n-jishnu.github.io/Portfolio/)
-- ⚡ Fun fact: I love coding late at night! 🌙
+---
 
-## 🛠️ Tech Stack
+## What I Work On
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+• Machine Learning and Computer Vision  
+• Multimodal AI systems  
+• Data analysis and automation  
+• Backend systems and APIs  
+• Research driven AI applications
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Jishnu&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Jishnu&layout=compact&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Jishnu&theme=radical" />
-</p>
+## Tech Stack
 
-## 🌍 Connect with Me
+Python  
+PyTorch  
+SQL  
+Node.js  
+Docker  
+Git  
+Linux  
+AWS  
+Google Cloud
 
-<p align="center">
-  <a href="https://github.com/N-Jishnu"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jishnu-khumar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://n-jishnu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+---
+
+## GitHub Activity
+
+![Jishnu GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-Jishnu&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Jishnu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=N-Jishnu&theme=tokyonight&hide_border=true)
+
+---
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Jishnu&theme=tokyo-night&hide_border=true)
+
+---
+
+## Currently Exploring
+
+Agentic AI systems  
+Autonomous research agents  
+Multimodal foundation models  
+AI for scientific discovery
+
+---
+
+## Connect
+
+GitHub: https://github.com/N-Jishnu  
+LinkedIn: https://linkedin.com/in/jishnu-khumar  
+Email: jishnu.khumar@gmail.com
